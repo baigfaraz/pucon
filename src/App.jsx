@@ -5,7 +5,6 @@ import AboutUs from "./screens/AboutUs";
 import LoginPage from "./screens/LoginPage";
 import SignUpPage from "./screens/SignUpPage";
 import Dashboard from "./screens/Dashboard";
-
 export default function App() {
   return (
     <>
